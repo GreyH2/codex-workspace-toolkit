@@ -22,6 +22,7 @@ workspace-template/
     ├── file-routing.md
     ├── coding.md
     ├── computer-ops.md
+    ├── external-services.md
     ├── chat-notes.md
     ├── conversation-efficiency.md
     ├── context-continuity.md
@@ -57,6 +58,7 @@ workspace-template/
 - 创建或整理文件时读取 `file-routing.md`；
 - 编程、调试或测试时读取 `coding.md`；
 - 操作 Windows、文件系统或本地应用时读取 `computer-ops.md`；
+- 登录、上传、发布或修改远程服务时读取 `external-services.md`；
 - 创建聊天摘要或长期笔记时读取 `chat-notes.md`；
 - 普通问答、解释或状态说明时读取 `conversation-efficiency.md`；
 - 长任务可能跨上下文继续时读取 `context-continuity.md`。

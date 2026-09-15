@@ -23,6 +23,7 @@ workspace-template/
     ├── coding.md
     ├── computer-ops.md
     ├── chat-notes.md
+    ├── conversation-efficiency.md
     ├── context-continuity.md
     ├── rule-evolution.md
     └── design-principles.md
@@ -57,6 +58,7 @@ workspace-template/
 - 编程、调试或测试时读取 `coding.md`；
 - 操作 Windows、文件系统或本地应用时读取 `computer-ops.md`；
 - 创建聊天摘要或长期笔记时读取 `chat-notes.md`；
+- 普通问答、解释或状态说明时读取 `conversation-efficiency.md`；
 - 长任务可能跨上下文继续时读取 `context-continuity.md`。
 
 如果没有专用规则，Agent 应直接正常完成任务，不为了寻找规则而扫描全部文档。

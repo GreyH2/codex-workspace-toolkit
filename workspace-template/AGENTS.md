@@ -9,7 +9,7 @@
 - 创建、保存、移动、整理或交付文件，以及判断输出目录：读取 [`.agent/file-routing.md`](.agent/file-routing.md)。
 - 编程、调试、测试或软件项目：读取 [`.agent/coding.md`](.agent/coding.md)。
 - 操作本机、操作系统、文件系统、应用、存储空间、清理或维护：读取 [`.agent/computer-ops.md`](.agent/computer-ops.md)。
-- 登录外部服务，上传、发布、发送内容，或修改云端数据、远程仓库和访问权限：读取 [`.agent/external-services.md`](.agent/external-services.md)。
+- 上网搜索、查询实时信息、下载公开资料，或登录、上传、发布、发送及修改远程数据：读取 [`.agent/external-services.md`](.agent/external-services.md)。
 - 从聊天或任务中创建本地笔记、摘要或长期记录：读取 [`.agent/chat-notes.md`](.agent/chat-notes.md)。
 - 普通问答、解释、建议或状态说明：读取 [`.agent/conversation-efficiency.md`](.agent/conversation-efficiency.md)。
 - 长任务、上下文接近上限、发生上下文压缩，或需要跨对话恢复未完成工作：读取 [`.agent/context-continuity.md`](.agent/context-continuity.md)。

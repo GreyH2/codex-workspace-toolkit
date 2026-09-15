@@ -6,8 +6,9 @@
 
 - 软件、网站、脚本、代码仓库及多文件项目：`<WORKSPACE_ROOT>\Projects\<项目名称>\`
 - Word、PDF、表格、演示文稿和普通文本：`<WORKSPACE_ROOT>\Documents\<类型>\<主题或项目>\`
+- 音频和视频：`<WORKSPACE_ROOT>\Media\<Audio|Video>\<主题或项目>\`
 - 可重复使用的提示词：`<WORKSPACE_ROOT>\Prompts\<用途>\<主题>\`
-- 普通聊天、调研、计划和排障笔记：`<WORKSPACE_ROOT>\Chats\<General|Research|Planning|Troubleshooting>\`
+- 普通聊天、调研、计划、排障和创意笔记：`<WORKSPACE_ROOT>\Chats\<General|Research|Planning|Troubleshooting|Creative>\`
 - 临时下载、中间产物和可丢弃文件：`<WORKSPACE_ROOT>\Temp\<任务名称>\`
 
 不要把交付文件直接放在工作区根目录。用户没有命名时，任务目录使用 `YYYY-MM-DD-简短主题`；名称应简短、清晰，并与相邻目录风格一致。

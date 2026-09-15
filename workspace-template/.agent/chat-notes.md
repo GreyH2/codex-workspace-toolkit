@@ -8,6 +8,7 @@
 - 调研和比较：`Chats\Research`
 - 计划、决定和构思：`Chats\Planning`
 - 非项目排障：`Chats\Troubleshooting`
+- 故事、角色和其他创意讨论：`Chats\Creative`
 
 文件名使用 `YYYY-MM-DD-简短主题.md`，内容保留主题、结论、必要背景和相关本地文件链接。除非用户明确要求，不保存完整聊天记录。
 

@@ -8,6 +8,7 @@
 - **文件自动归档**：根据交付物和项目归属选择目录，新类型可按稳定需求扩展。
 - **规则自动演进**：从真实对话中识别稳定需求，仅在重复、长期的规则缺口出现时新增或优化规则；公开模板变更可成批检查，并由用户选择何时同步。
 - **高效对话**：简单确认直接短答，按稳定交流习惯调整详略；区分举例与特指，上传图片只做与问题有关的最小充分查看。
+- **定时任务效率**：先小范围测试，再依据早期运行结果调整范围和频率；无重要变化时避免重复检查与冗余通知。
 - **上下文连续性**：长任务在必要时维护最小恢复检查点，不逐轮保存聊天。
 - **适度验证**：优先检查受影响范围，风险或证据需要时再扩大验证。
 - **安全边界**：普通本地工作直接推进，高风险或不可逆操作保留确认边界。
@@ -27,6 +28,7 @@ workspace-template/
     ├── external-services.md
     ├── chat-notes.md
     ├── conversation-efficiency.md
+    ├── scheduled-tasks.md
     ├── context-continuity.md
     ├── rule-evolution.md
     └── design-principles.md
@@ -65,7 +67,8 @@ workspace-template/
 - 上网搜索、下载资料、登录、上传、发布或修改远程服务时读取 `external-services.md`；
 - 创建聊天摘要或长期笔记时读取 `chat-notes.md`；
 - 普通问答、解释或状态说明时读取 `conversation-efficiency.md`；
-- 长任务可能跨上下文继续时读取 `context-continuity.md`。
+- 创建、调整或运行定时任务时读取 `scheduled-tasks.md`；
+- 长任务可能跨上下文继续时读取 `context-continuity.md`；
 - 真实使用暴露出稳定的新规则缺口，或已有规则需要持续优化时读取 `rule-evolution.md`。
 
 如果没有专用规则，Agent 应直接正常完成任务，不为了寻找规则而扫描全部文档。

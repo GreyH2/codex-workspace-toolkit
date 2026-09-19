@@ -12,6 +12,7 @@
 - 上网搜索、查询实时信息、下载公开资料，或登录、上传、发布、发送及修改远程数据：读取 [`.agent/external-services.md`](.agent/external-services.md)。
 - 从聊天或任务中创建本地笔记、摘要或长期记录：读取 [`.agent/chat-notes.md`](.agent/chat-notes.md)。
 - 普通问答、解释、建议或状态说明：读取 [`.agent/conversation-efficiency.md`](.agent/conversation-efficiency.md)。
+- 创建、调整或执行定时任务、提醒及定期监控：读取 [`.agent/scheduled-tasks.md`](.agent/scheduled-tasks.md)。
 - 长任务、上下文接近上限、发生上下文压缩，或需要跨对话恢复未完成工作：读取 [`.agent/context-continuity.md`](.agent/context-continuity.md)。
 - 当前任务不被已有规则覆盖，而且可能形成稳定、重复使用的新工作流规则：读取 [`.agent/rule-evolution.md`](.agent/rule-evolution.md)。
 
